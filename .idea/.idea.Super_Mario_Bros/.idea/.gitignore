@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea.Super_Mario_Bros.iml
+# Datasource local storage ignored files
+/../../../../../../../:\Code\Workspace\Super_Mario_Bros\.idea\.idea.Super_Mario_Bros\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
