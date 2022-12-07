@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class SideScrolling : MonoBehaviour
@@ -17,7 +15,6 @@ public class SideScrolling : MonoBehaviour
     {
         Vector3 cameraPos = transform.position;
         cameraPos.x = Mathf.Max(cameraPos.x, player.position.x);
-        cameraPos.z = -10;
         transform.position = cameraPos;
     }
 }
